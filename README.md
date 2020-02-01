@@ -8,8 +8,8 @@ Sponsored by The Nature Conservancy - Oregon Chapter
 Name | Username | Email
 -----|----------|------
 Brandon Chong | [bch0ng](https://www.github.com/bch0ng) | bchong@uw.edu
-Sean Mahoney | | smm42@uw.edu
-Linley Porter | | lport26@uw.edu
+Sean Mahoney |[smm42](https://www.github.com/smm42) | smm42@uw.edu
+Linley Porter |[lporter515](https://www.github.com/lporter515) | lport26@uw.edu
 Leon Tan | [lleontan](https://www.github.com/lleontan) | lleontan@gmail.com
 
 ## Contents of the Repo
