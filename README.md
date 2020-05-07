@@ -9,7 +9,21 @@ The Oregon chapter of The Nature Conservancy does important work in conservation
 
 ## Solution
 
-In progress.
+### Box Optimization
+
+TNC Oregon already uses BOX for many of their collaborative works. We want to encourage the use of cloud storage.  We also want to make sure that everyone knows (generally) where everything is.  That’s why our solution is to move everything that is important in the Network drives onto BOX folders that are carefully selected to represent the functional groups within TNC Oregon.  The remainder of the contents on the Network drives will remain there in cold storage.
+
+As part of this giant move to BOX, we want to define functional groups within TNC Oregon that will allow us to know exactly where the important data in the network drives are, as well as the data that already exists within BOX, will go.  Our goal is to let TNC define how they best want to organize the data within those functional groups, rather than try to force something upon them.
+
+* Individual Workspaces
+  * One directory for each user containing their own work and their own data
+* Shared Workspaces
+  * Intended for data that is relevant to other functional groups, a way for chapter to easily share data amongst themselves
+* Functional Groups
+  * One directory for each functional group, intended only for people relevant to the work, potentially sensitive data
+* Archive
+  * For old data that is no longer needed by TNC, but needs to be retained
+
 
 ### Team
 
