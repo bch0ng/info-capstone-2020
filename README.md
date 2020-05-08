@@ -13,7 +13,7 @@ The Oregon chapter of The Nature Conservancy does important work in conservation
 
 TNC Oregon already uses BOX for many of their collaborative works. We want to encourage the use of cloud storage.  We also want to make sure that everyone knows (generally) where everything is.  That’s why our solution is to move everything that is important in the Network drives onto BOX folders that are carefully selected to represent the functional groups within TNC Oregon. The remainder of the contents on the Network drives will remain there in cold storage.
 
-![FileDrive](Group 23.png)
+![FileDrive](Group 23.png =100x50)
 
 
 ### Workspaces
@@ -28,7 +28,7 @@ As part of this giant move to BOX, we want to define functional groups within TN
 * Archive
   * For old data that is no longer needed by TNC, but needs to be retained
 
-![Cloud](Group 13.png)
+![Cloud](Group 13.png =100x50)
 
 ### Permissions
 Permissions follow a waterfall design, where any permission rule applied to a folder will also apply to any documents/folders under that document.  Therefore, it is important to set permissions as narrowly as possible at the highest level folder.
@@ -41,7 +41,7 @@ The default permission level is Editor, which has far more functionality that is
 * The organization as a whole should agree upon a shared set of rules and norms for naming their files.
 * Transitioning to a fully online data ecosystem is 1% technology, 99% behavioral. Training sessions should be performed so that TNC employees are comfortable with the new information environment.
 
-![Personalization](Group 25.png)
+![Personalization](Group 25.png =100x50)
 
 
 
